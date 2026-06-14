@@ -58,5 +58,7 @@
   "err_rsync_failed": "rsync fehlgeschlagen",
   "confirm_umount": "Ramdisk '{mp}' aushängen?\nAlle Daten gehen verloren!",
   "confirm_delete": "Ramdisk '{mp}' aushängen UND Verzeichnis löschen?",
-  "confirm_clear": "Inhalt von '{mp}' unwiderruflich löschen?\nDie Ramdisk selbst bleibt bestehen."
+  "confirm_clear": "Inhalt von '{mp}' unwiderruflich löschen?\nDie Ramdisk selbst bleibt bestehen.",
+  "tooltip_about": "Über Linux Ramdisk Manager",
+  "about_comments": "Ramdisks anlegen und verwalten.\n\nTeil der GTK3-Toolbox (NoCoderGHG)."
 }

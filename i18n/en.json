@@ -58,5 +58,7 @@
   "err_rsync_failed": "rsync failed",
   "confirm_umount": "Unmount ramdisk '{mp}'?\nAll data will be lost!",
   "confirm_delete": "Unmount ramdisk '{mp}' AND delete directory?",
-  "confirm_clear": "Permanently delete contents of '{mp}'?\nThe ramdisk itself will remain."
+  "confirm_clear": "Permanently delete contents of '{mp}'?\nThe ramdisk itself will remain.",
+  "tooltip_about": "About Linux Ramdisk Manager",
+  "about_comments": "Create and manage ramdisks.\n\nPart of the GTK3 Toolbox (NoCoderGHG)."
 }
